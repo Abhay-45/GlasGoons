@@ -1,6 +1,8 @@
 <h1>GlasGoons</h1>
 <h3>Empowering Progress, One Achievable Goal at a Time</h3>
 
+<i>Winner project during the CodeForGood 23 Hackathon conducted by J.P Morgan at Glasgow.</i>
+
 <h4>What is GlasGoons?</h4>
 <p>An innovative platform designed to facilitate the realization of UN Sustainable Development Goals (SDGs) by breaking down these ambitious global objectives into smaller, attainable milestones.</p>
 
